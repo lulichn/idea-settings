@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for Windows copy" parent="$default">
+<keymap version="1" name="MySettingForWin" parent="$default">
   <action id="CloseActiveTab" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
