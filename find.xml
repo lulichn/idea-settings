@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pbx*" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -16,7 +16,7 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>`</mask>
-    <mask>*.js</mask>
     <mask>*.pbx*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
